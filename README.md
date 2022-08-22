@@ -43,15 +43,15 @@
 
 ## Create CNN environment 
 
-* conda create - n "name" python=3.9.12
+* conda create - n CNNenv python=3.9.12
 
-![](Create_Env.JPG)
 
 ## activate environment
-
-![](Activate.JPG)
+ 
+* conda activate CNNenv
 
 ## İnstall library
+
 * conda install -c conda-forge cudatoolkit=11.2 cudnn=8.1.0
 * pip install tensorflow==2.9.1
 * pip install keras==2.9.0
