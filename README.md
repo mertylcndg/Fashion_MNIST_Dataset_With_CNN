@@ -45,7 +45,6 @@
 
 * conda create - n CNNenv python=3.9.12
 
-
 ## activate environment
  
 * conda activate CNNenv
